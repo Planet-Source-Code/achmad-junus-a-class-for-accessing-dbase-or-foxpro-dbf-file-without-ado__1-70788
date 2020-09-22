@@ -1,0 +1,4 @@
+This folder contain a zip file with older version:
+Version 1.0.0
+
+** The zip file is renamed, but the contents is intact **
